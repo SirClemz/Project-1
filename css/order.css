@@ -1,0 +1,98 @@
+
+
+.attribution { font-size: 11px; text-align: center; 
+    font-size: 12px;
+}
+.attribution a { color: hsl(228, 45%, 44%); 
+    text-decoration: none;
+}
+
+body {
+    background-image: url("../images/pattern-background-desktop.svg");
+    background-position: center;
+    font-family: 'Red Hat Display', sans-serif;
+
+  }
+
+.container {
+    margin: 70px 470px 0px 470px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.center{
+    text-align: center;
+    background-color: white;
+    margin-top: 20px;
+    
+}
+
+.write-up {
+    width: 70%;
+    margin: auto;
+    color: hsl(224, 23%, 55%);
+
+}
+
+.button {
+    background-color: hsl(245, 75%, 52%);
+    color: white;
+    padding: 10px 85px;
+    text-decoration: none;
+    margin: 20px 0px;
+    border-radius: 10px;
+    text-shadow: 0px 0px 3px 0px;
+}
+
+.card-top {
+    background-image: url('../images/illustration-hero.svg');
+    background-size: cover;
+    height: 190px;
+    margin-bottom: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.icon {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px;
+    border-radius: 5px;
+    background-color:hsl(225, 100%, 98%);
+    margin: 10px 30px 10px 30px;
+    
+}
+
+.underline-none {
+    text-decoration: none;
+}
+
+.change {
+    text-align: right;
+    padding-right: 20px;
+    font-size: large;
+}
+
+.underline-none {
+    margin: 50px 0px;
+}
+
+.container .icon article  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container .icon img {
+    padding: 0px 10px;
+}
+
+h2 {
+    margin-top: 20px;
+    color: hsl(223, 47%, 23%);
+}
+
+.money {
+    color: hsl(224, 23%, 55%);
+}
